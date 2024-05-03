@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Therifv2';
+    src: url('public\fonts\Therifv2.ttf') format('truetype');
+
+}
+/* Import TheRifleman font */
+@font-face {
+    font-family: 'TheRifleman';
+    src: url('/fonts/TheRifleman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
